@@ -3,3 +3,5 @@ Beamer slides of verses of the Holy Quran in which the beautiful names of Almigh
 https://github.com/mabs239/NamesOfAllah-Beamer-/blob/master/asmaulhusna.png
 asmaulhusna.png
 https://github.com/mabs239/NamesOfAllah-Beamer-/blob/master/asmaulhusna.png?raw=true
+
+![Philadelphia's Magic Gardens. This place was so cool!](asmaulhusna.png "Philadelphia's Magic Gardens")
